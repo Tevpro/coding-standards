@@ -1,1 +1,1 @@
-# coding-standards
+# Tevpro Coding Standards Repository
